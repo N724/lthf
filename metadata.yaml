@@ -3,4 +3,4 @@ desc: 联通账户信息查询插件
 help: 发送「话费查询」获取账户余额
 version: 1.0.0
 author: Soulter
-repo: https://github.com/N724/lthf/
+repo: https://github.com/N724/lthf
